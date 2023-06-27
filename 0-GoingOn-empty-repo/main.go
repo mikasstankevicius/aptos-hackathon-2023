@@ -13,7 +13,7 @@ import (
 
 const (
 	natsUrl     = "34.107.87.29"
-	accessToken = "SAAEPLBNRA56YZTG4XN674JQXJ6L5KKVNUB7XUW5YOFJXKV2PYQ2FJJ4ZU"
+	accessToken = "SAALGO555XD6CXWFMOG23ZB2ODH4PMXPABV6VNRDFEHI3CUTRADMO2G6EA"
 )
 
 // RepublishData receives a message on a given subject and republishes it to another subject.
